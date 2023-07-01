@@ -1,0 +1,20 @@
+#con{
+    background-color: rgb(226, 225, 225);
+   box-shadow: 5px 5px 5px 5px gray;
+   border-radius: 5px;
+   
+}
+
+#h{
+    color: rgb(117, 116, 116);
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+#res{
+display: none;
+border: none;
+}
